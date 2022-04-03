@@ -1,0 +1,34 @@
+body{
+    background-color:greenyellow;
+}
+
+h1{
+    color: green;
+    background-color:chartreuse;
+}
+
+#show_sketch{
+    float:right;
+}
+
+p{
+    padding-top:10px;
+    font-size:25px;
+}
+
+canvas{
+    border:5px solid whiteborder-radius:20px;
+    animation-name:example;
+    animation-duration;4s;
+    margin-top:150px;
+    animation-iteration-count:infinite;
+}
+
+@keyframes examples{
+    fron{
+        box-shadow:ipx 1px 38px grey;
+    }
+    to{
+        box-shadow:ipx 1px 38px white;
+    }
+}
